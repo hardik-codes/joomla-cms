@@ -8,7 +8,7 @@ class JFormFieldIce extends JFormField {
 	
 	public function getInput() {
 
-		$JsonFile = file_get_contents("/home/hardik/****/joomla-final/templates/newtemplate/ice-flavours.json");
+		$JsonFile = file_get_contents("/[path-to-joomla]/templates/newtemplate/ice-flavours.json");
 
 		$array = json_decode($JsonFile, true);
 
