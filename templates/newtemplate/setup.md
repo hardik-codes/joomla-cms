@@ -8,4 +8,4 @@
    replace the ```[path-to-joomla]``` with the path of your joomla repo in the following line ```$JsonFile = file_get_contents("/[path-to-joomla]   
 	 /templates/newtemplate/ice-flavours.json");```
 	 
-4. You are all set now !!
+4. You are all set to go now !!
