@@ -13,6 +13,7 @@
 		<filename>index.php</filename>
 		<filename>ice-flavours.json</filename>
 		<filename>templateDetails.xml</filename>
+		<filename>setup.md</filename>
 		<folder>images</folder>
 		<folder>css</folder>
 	</files>
